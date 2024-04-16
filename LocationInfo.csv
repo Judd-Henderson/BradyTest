@@ -30,7 +30,7 @@ LocationID,Office,Telephone,Street,State,Zip,Company,City
 6020HOU,Houston,713.861.3700,"10634 Tanner Rd, Suite 300",TX,77041,Brady,Houston
 6030TYR,Tyler,903.534.8875,14174 State Highway 31 W,TX,75709,Brady,Tyler
 6060DFW,Fort Worth,817.738.2194,2117 Franklin Drive,TX,76106,Brady,Fort Worth
-6070DAL,Dallas,817.417.9697,2400 East Interstate Highway 20 Bardin Crossing – Building 1,TX,76018,Brady,Arlington
+6070DAL,Dallas,817.417.9697,2400 East Interstate Highway 20 Bardin Crossing â€“ Building 1,TX,76018,Brady,Arlington
 6080HOP,Houston,713.856.8686,10634 Tanner Rd Suite 300,TX,77041,Brady,Houston
 6090AUS,Austin,512.671.7627,3910 Gattis School Road,TX,78664,Brady,Round Rock
 6100NLR,North Little Rock,800.438.4731,4007 Richards Road,AR,72117,Brady,North Little Rock
@@ -61,3 +61,5 @@ LocationID,Office,Telephone,Street,State,Zip,Company,City
 8510WIL,Williston,800.639.7226,1366 Marshall Avenue,VT,05495,Brady,Williston
 8520HAR,Hartford,802.295.3188,1118 VT-14,VT,05047,Brady,Hartford
 8530WAL,Wallingford,802.295.3188,160 S Turnpike Road,CT,06492,Brady,Wallingford
+
+1580TES,Hattiesburg,601.651.2255,344 Lidd Street,MS,39402,Brady,Hattiesburg
