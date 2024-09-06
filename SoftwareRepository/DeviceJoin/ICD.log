@@ -1,0 +1,70 @@
+8/21/2024 1:18:23 PM Info Project 'MachineJoin' created successfully and added to workspace
+8/21/2024 1:18:23 PM Info Loading scenario ID: d2fa89db-1251-4bdf-b1bf-4b96016aaea4, URI: http://localhost:9098/Scenarios/d2fa89db-1251-4bdf-b1bf-4b96016aaea4/Index.html
+8/21/2024 1:21:52 PM Info Clear all Config Template answers
+8/21/2024 1:21:52 PM Info Save Config Template answers for active project
+8/21/2024 1:21:52 PM Info !ConfigureTemplate, Value: true
+8/21/2024 1:21:52 PM Info !EnableSharedPC, Value: false
+8/21/2024 1:21:52 PM Info !enableDeviceSharing_display, Value: Yes
+8/21/2024 1:21:52 PM Info !disableDeviceSharing, Value: No
+8/21/2024 1:21:52 PM Info SharedPC//EnableSharedPCMode, Value: true
+8/21/2024 1:21:52 PM Info SharedPC//AccountManagement//DeletionPolicy, Value: 2
+8/21/2024 1:21:52 PM Info SharedPC//AccountManagement//AccountModel, Value: 2
+8/21/2024 1:21:52 PM Info SharedPC//AccountManagement//DiskLevelCaching, Value: 50
+8/21/2024 1:21:52 PM Info SharedPC/AccountManagement/DiskLevelCaching, Value: 25
+8/21/2024 1:21:52 PM Info SharedPC//AccountManagement//EnableAccountManager, Value: true
+8/21/2024 1:21:52 PM Info SharedPC//ConfigureApplications, Value: true
+8/21/2024 1:21:52 PM Info SharedPC//PolicyCustomization//SetEduPolicies, Value: true
+8/21/2024 1:21:52 PM Info SharedPC//PolicyCustomization//SetPowerPolicies, Value: true
+8/21/2024 1:21:52 PM Info SharedPC//PolicyCustomization//SignInOnResume, Value: true
+8/21/2024 1:21:52 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 0
+8/21/2024 1:21:52 PM Info Policies//ApplicationManagement//AllowDeveloperUnlock, Value: 0
+8/21/2024 1:21:52 PM Info Policies//Experience//AllowManualMDMUnenrollment, Value: 0
+8/21/2024 1:21:52 PM Info Policies//Security//AllowAddProvisioningPackage, Value: 0
+8/21/2024 1:21:52 PM Info Policies//Security//AllowRemoveProvisioningPackage, Value: 0
+8/21/2024 1:21:52 PM Info Policies//Update//AllowAutoUpdate, Value: 4
+8/21/2024 1:21:52 PM Info !EnableCleanPC, Value: false
+8/21/2024 1:21:52 PM Info CleanPC//CleanPCWithoutRetainingUserData, Value: 1
+8/21/2024 1:21:52 PM Info !EnableCleanPcDisplayFalse, Value: No
+8/21/2024 1:21:52 PM Info OOBE/Desktop/HideOOBE, Value: true
+8/21/2024 1:21:52 PM Info DevDetail//DNSComputerName, Value: Contoso-%RAND:5%
+8/21/2024 1:21:52 PM Info !ConfigureTemplate, Value: true
+8/21/2024 1:21:52 PM Info !ConfigureWiFi, Value: false
+8/21/2024 1:21:52 PM Info !configureWiFi_transparent, Value: Wired
+8/21/2024 1:21:52 PM Info !SecurityType, Value: Open
+8/21/2024 1:21:52 PM Info !ConfigureTemplate, Value: true
+8/21/2024 1:21:52 PM Info !domainJoin, Value: domainJoin.2
+8/21/2024 1:21:52 PM Info !bprtCredentialCacheRefresh, Value: true
+8/21/2024 1:21:52 PM Info bprtExpiry, Value: 2025-02-17T20:19:17.271Z
+8/21/2024 1:21:52 PM Info !admin_usergroup, Value: 2
+8/21/2024 1:21:52 PM Info Accounts//Azure//BPRT, Value: 0.AX0AwtpkRpIFRk2RO8D7KpZXv49bDbkDVVNBtUWzHOz67OJ9ANM.AgABAwEAAAApTwJmzXqdR4BN2miheQMYAgDs_wUA9P8tGChiQ778bNNIjpWuV9ae_DaL5MplubLT4ta8MNOm28Jz183L4nR5QPa0zsadsYFeSQEW89AChX8d46reqtdvP_F3gVDRVVhzbSK2PSMcZhALcuSYJgApL_9MiPUaXEyib01JvgfM691-A3dDMSGrSiqfxafL1WF1Zf7ZH0EH8df_6gFn3WNWY0yVW9SIz7BgK92Otwa_WLT4W6JYZxxdwwlO57n3-ZDH00AOwO7HSCiUrcsCVC7tFxY-MZblgS6N4IktroqKB_rCrpRyssiT9kZMdpFNyPb9bIFrQV4Qu3PyCpddn92neviwFgW_5GiYO0wlYl2EVVfjLn09zeA_BWK7s83DvILJA11Xes2Gc0MyJF096IDHQkiWqBp2Ic-v7sD2E7z0dPSDqvcWlX_IDxC-VcVDwPiB9s6e73psoGWY6hM3NhlQHXoRJzHgkWnGznH-wpZ491lP2EzeEDl1PhX4jdZFKsM0dZ32DvCrfKp9Uiu9jMtTQynMpQ-AGgVZ-McH1NUlgYWatwaTgrzzbbbDauMB6jkAz5yV5w5x8GjF3ayePb7CV5KYDVVWSSQVzfR2XfmovBCRO1lQQc5yG76Yrcqv6-ahTOOHOBRHh1ZpvLv82A1VgPKa6B82nqYCA0aSBV73_Qzw1-Qt_KPRmXMZeIZtR4H8zGJiZeW_5CUphiK7z_GHm98D5dk4IwJIo7njvvQ-X8TXn2EzK026ztAcLfeGWAh3BN26iErrJVrWqwlPMbccgOAuwM6jVdb7xusqUxbUJpmEh7OkKhqpc5mvJM6KHBE7bXTagmy8erASGR1kFHgi3MwW3JWCuNPtFI_N2-fHHJtiWCDlQPfneIZoeOjvWwA
+8/21/2024 1:21:52 PM Info Accounts//Azure//Authority, Value: https://login.microsoftonline.com/common
+8/21/2024 1:21:52 PM Info Accounts//Users, Value: Administrator
+8/21/2024 1:21:52 PM Info !admin_password, Value: L0calp4ss!
+8/21/2024 1:21:52 PM Info Accounts//Users//Administrator//Password, Value: L0calp4ss!
+8/21/2024 1:21:52 PM Info Accounts//Users//Administrator//UserGroup, Value: 2
+8/21/2024 1:21:52 PM Info !ConfigureTemplate, Value: true
+8/21/2024 1:21:52 PM Info !SetupApplications, Value: true
+8/21/2024 1:21:52 PM Info ProvisioningCommands//PrimaryContext//Command, Value: []
+8/21/2024 1:21:52 PM Info UniversalAppInstall//DeviceContextApp, Value: []
+8/21/2024 1:21:52 PM Info UniversalAppInstall//DeviceContextAppLicense, Value: []
+8/21/2024 1:21:52 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 1
+8/21/2024 1:21:52 PM Info !ConfigureTemplate, Value: true
+8/21/2024 1:21:52 PM Info !SetupCertificates, Value: true
+8/21/2024 1:21:52 PM Info Certificates//RootCertificates, Value: []
+8/21/2024 1:21:52 PM Info Start provisioning package build
+8/21/2024 1:21:52 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\jhenderson_adm\AppData\Local\Temp\ICD_20240821-132152-968_7508.5_441900009.1'
+8/21/2024 1:21:53 PM Info Adding runtime settings to Provisioning Package
+8/21/2024 1:21:53 PM Info CreateTempDirectory: Create directory: C:\Users\jhenderson_adm\AppData\Local\Temp\ICD_20240821-132153-009_7508.5_1439812364.2
+8/21/2024 1:21:53 PM Info provxml writer, path = C:\Users\jhenderson_adm\AppData\Local\Temp\ICD_20240821-132153-009_7508.5_1439812364.2\Prov\RunTime\0__Accounts_Azure.provxml
+8/21/2024 1:21:53 PM Info provxml writer, path = C:\Users\jhenderson_adm\AppData\Local\Temp\ICD_20240821-132153-009_7508.5_1439812364.2\Prov\RunTime\1__Accounts_Users_Administrator.provxml
+8/21/2024 1:21:53 PM Info provxml writer, path = C:\Users\jhenderson_adm\AppData\Local\Temp\ICD_20240821-132153-009_7508.5_1439812364.2\Prov\RunTime\2__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+8/21/2024 1:21:53 PM Info provxml writer, path = C:\Users\jhenderson_adm\AppData\Local\Temp\ICD_20240821-132153-009_7508.5_1439812364.2\Prov\RunTime\3__DevDetail_DNSComputerName.provxml
+8/21/2024 1:21:53 PM Info provxml writer, path = C:\Users\jhenderson_adm\AppData\Local\Temp\ICD_20240821-132153-009_7508.5_1439812364.2\Prov\RunTime\4__OOBE_Desktop_HideOobe.provxml
+8/21/2024 1:21:53 PM Info Adding deployment settings to Provisioning Package
+8/21/2024 1:21:53 PM Info Adding file assets to Provisioning Package
+8/21/2024 1:21:53 PM Info CopyFile: Source path: C:\Users\jhenderson_adm\AppData\Local\Temp\ICD_20240821-132153-171_7508.5_640401517.cat, Target path: C:\Users\jhenderson_adm\Documents\Windows Imaging and Configuration Designer (WICD)\MachineJoin\MachineJoin.cat
+8/21/2024 1:21:53 PM Info CopyFile: Source path: C:\Users\jhenderson_adm\AppData\Local\Temp\ICD_20240821-132152-968_7508.5_441900009.1, Target path: C:\Users\jhenderson_adm\Documents\Windows Imaging and Configuration Designer (WICD)\MachineJoin\MachineJoin.ppkg
+8/21/2024 1:21:53 PM Info DeleteFile: File '' does not exist
+8/21/2024 1:21:53 PM Info DeleteFile: File 'C:\Users\jhenderson_adm\AppData\Local\Temp\ICD_20240821-132152-968_7508.5_441900009.1' does not exist
+8/21/2024 1:21:53 PM Info Provisioning package build is completed with result: Success
+8/21/2024 1:21:53 PM Info Sent message to all clients for project 785e8b5e-48d0-4605-9e0e-822d226fc2fd
