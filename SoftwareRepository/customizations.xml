@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WindowsCustomizations>
+  <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
+    <ID>{785e8b5e-48d0-4605-9e0e-822d226fc2fd}</ID>
+    <Name>MachineJoin</Name>
+    <Version>1.1</Version>
+    <OwnerType>OEM</OwnerType>
+    <Rank>0</Rank>
+    <Notes />
+  </PackageConfig>
+  <Settings xmlns="urn:schemas-microsoft-com:windows-provisioning">
+    <Customizations>
+      <Common>
+        <Accounts>
+          <Azure>
+            <Authority>https://login.microsoftonline.com/common</Authority>
+            <BPRT>0.AX0AwtpkRpIFRk2RO8D7KpZXv49bDbkDVVNBtUWzHOz67OJ9ANM.AgABAwEAAAApTwJmzXqdR4BN2miheQMYAgDs_wUA9P8tGChiQ778bNNIjpWuV9ae_DaL5MplubLT4ta8MNOm28Jz183L4nR5QPa0zsadsYFeSQEW89AChX8d46reqtdvP_F3gVDRVVhzbSK2PSMcZhALcuSYJgApL_9MiPUaXEyib01JvgfM691-A3dDMSGrSiqfxafL1WF1Zf7ZH0EH8df_6gFn3WNWY0yVW9SIz7BgK92Otwa_WLT4W6JYZxxdwwlO57n3-ZDH00AOwO7HSCiUrcsCVC7tFxY-MZblgS6N4IktroqKB_rCrpRyssiT9kZMdpFNyPb9bIFrQV4Qu3PyCpddn92neviwFgW_5GiYO0wlYl2EVVfjLn09zeA_BWK7s83DvILJA11Xes2Gc0MyJF096IDHQkiWqBp2Ic-v7sD2E7z0dPSDqvcWlX_IDxC-VcVDwPiB9s6e73psoGWY6hM3NhlQHXoRJzHgkWnGznH-wpZ491lP2EzeEDl1PhX4jdZFKsM0dZ32DvCrfKp9Uiu9jMtTQynMpQ-AGgVZ-McH1NUlgYWatwaTgrzzbbbDauMB6jkAz5yV5w5x8GjF3ayePb7CV5KYDVVWSSQVzfR2XfmovBCRO1lQQc5yG76Yrcqv6-ahTOOHOBRHh1ZpvLv82A1VgPKa6B82nqYCA0aSBV73_Qzw1-Qt_KPRmXMZeIZtR4H8zGJiZeW_5CUphiK7z_GHm98D5dk4IwJIo7njvvQ-X8TXn2EzK026ztAcLfeGWAh3BN26iErrJVrWqwlPMbccgOAuwM6jVdb7xusqUxbUJpmEh7OkKhqpc5mvJM6KHBE7bXTagmy8erASGR1kFHgi3MwW3JWCuNPtFI_N2-fHHJtiWCDlQPfneIZoeOjvWwA</BPRT>
+          </Azure>
+          <Users>
+            <User UserName="Administrator">
+              <Password>L0calp4ss!</Password>
+              <UserGroup>Administrators</UserGroup>
+            </User>
+          </Users>
+        </Accounts>
+        <DevDetail>
+          <DNSComputerName>Contoso-%RAND:5%</DNSComputerName>
+        </DevDetail>
+        <OOBE>
+          <Desktop>
+            <HideOobe>True</HideOobe>
+          </Desktop>
+        </OOBE>
+        <Policies>
+          <ApplicationManagement>
+            <AllowAllTrustedApps>Yes</AllowAllTrustedApps>
+          </ApplicationManagement>
+        </Policies>
+      </Common>
+    </Customizations>
+  </Settings>
+</WindowsCustomizations>
